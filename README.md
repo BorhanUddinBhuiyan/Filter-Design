@@ -1,6 +1,6 @@
 
 # Low pass, High Pass, Band pass, Band Reject .
-##### Using Multisim Simulatior
+##### Using Multisim Simulator
 ---
 
 <h1>Low Pass Filter</h1>
