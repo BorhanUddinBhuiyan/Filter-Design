@@ -1,6 +1,5 @@
 
 # Low pass, High Pass, Band pass, Band Reject .
-***
 ##### Using Multisim Simulatior
 ---
 
