@@ -22,6 +22,3 @@
 <img src="band reject 2.png">
 
 ***
-<h1>Low Pass Filter</h1>
-<p><b>fequncey (hz)</b> vs <b>Level (dB)</b></p>
-<img src="low pass 2.png">s
