@@ -1,6 +1,7 @@
 
 # Low pass, High Pass, Band pass, Band Reject .
-##### Using Multisim Simulatior
+##### Using Multisim Simulator v--14.2
+---
 
 <h1>Low Pass Filter</h1>
 <p><b>fequncey (hz)</b> vs <b>Level (dB)</b></p>
